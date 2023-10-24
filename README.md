@@ -10,7 +10,7 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 
 ### Example 1:
 
-![image](https://github.com/JCQuacode/LinkedList_NumberAddition/assets/122890528/017984bd-09af-416b-a2d1-27628f93175c)
+![image](https://github.com/JCQuacode/Linked_List_Number_Addition/assets/122890528/f100c7ec-6939-49e3-a24d-f3e07814f646)
 
 Input: l1 = [2,4,3], l2 = [5,6,4]  
 Output: [7,0,8]  
